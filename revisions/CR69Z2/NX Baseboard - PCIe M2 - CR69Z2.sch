@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,19 +53,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -165,9 +165,9 @@
 <libraries>
 <library name="CapableRobot" urn="urn:adsk.eagle:library:2153859">
 <packages>
-<package name="TE-2199119-KEYE" library_version="17" library_locally_modified="yes">
+<package name="TE-2199119-KEYE" urn="urn:adsk.eagle:footprint:24777920/2" library_version="19">
 <hole x="-10" y="-1.5" drill="1.1"/>
-<hole x="10" y="-1.5" drill="1.1"/>
+<hole x="10" y="-1.5" drill="1.6"/>
 <smd name="1" x="-9.25" y="3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="2" x="-9" y="-3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="3" x="-8.75" y="3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
@@ -234,14 +234,14 @@
 <smd name="72" x="8.5" y="-3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="73" x="8.75" y="3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="74" x="9" y="-3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
+<smd name="M1" x="-10.35" y="3" dx="2.75" dy="1.2" layer="1" rot="R90"/>
+<smd name="M2" x="10.35" y="3" dx="2.75" dy="1.2" layer="1" rot="R90"/>
+<smd name="75" x="9.25" y="3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <wire x1="-11" y1="4.5" x2="-11" y2="-4.5" width="0.127" layer="39"/>
 <wire x1="-11" y1="-4.5" x2="11" y2="-4.5" width="0.127" layer="39"/>
 <wire x1="11" y1="-4.5" x2="11" y2="4.5" width="0.127" layer="39"/>
 <wire x1="11" y1="4.5" x2="-11" y2="4.5" width="0.127" layer="39"/>
 <text x="-12" y="-3" size="1.27" layer="25" rot="R90">&gt;NAME</text>
-<smd name="M1" x="-10.35" y="3" dx="2.75" dy="1.2" layer="1" rot="R90"/>
-<smd name="M2" x="10.35" y="3" dx="2.75" dy="1.2" layer="1" rot="R90"/>
-<smd name="75" x="9.25" y="3.775" dx="1.55" dy="0.3" layer="1" rot="R90"/>
 <circle x="-9.25" y="5.5" radius="0.5" width="0" layer="21"/>
 </package>
 <package name="0603" urn="urn:adsk.eagle:footprint:2153991/3" library_version="17" library_locally_modified="yes">
@@ -320,23 +320,6 @@
 <wire x1="-0.5" y1="0.9" x2="0.5" y2="0.9" width="0.127" layer="21"/>
 <text x="-2.032" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 </package>
-<package name="0402NOCREAM" urn="urn:adsk.eagle:footprint:13427376/1" locally_modified="yes" library_version="17" library_locally_modified="yes">
-<smd name="1" x="-0.5" y="0" dx="0.65" dy="0.6" layer="1" rot="R90" cream="no"/>
-<smd name="2" x="0.5" y="0" dx="0.65" dy="0.6" layer="1" rot="R90" cream="no"/>
-<text x="1.2" y="-0.2" size="0.635" layer="25">&gt;NAME</text>
-<wire x1="-0.1032" y1="0.3048" x2="0.1032" y2="0.3048" width="0.127" layer="21"/>
-<wire x1="-0.1032" y1="-0.3048" x2="0.1032" y2="-0.3048" width="0.127" layer="21"/>
-<wire x1="-0.93" y1="0.44" x2="0.93" y2="0.44" width="0" layer="39"/>
-<wire x1="0.93" y1="0.44" x2="0.93" y2="-0.44" width="0" layer="39"/>
-<wire x1="0.93" y1="-0.44" x2="-0.93" y2="-0.44" width="0" layer="39"/>
-<wire x1="-0.93" y1="-0.44" x2="-0.93" y2="0.44" width="0" layer="39"/>
-<polygon width="0.005" layer="51">
-<vertex x="-0.5" y="0.25"/>
-<vertex x="-0.5" y="-0.25"/>
-<vertex x="0.5" y="-0.25"/>
-<vertex x="0.5" y="0.25"/>
-</polygon>
-</package>
 <package name="0201" urn="urn:adsk.eagle:footprint:16131645/1" library_version="17" library_locally_modified="yes">
 <smd name="1" x="-0.275" y="0" dx="0.35" dy="0.25" layer="1" rot="R90"/>
 <smd name="2" x="0.275" y="0" dx="0.35" dy="0.25" layer="1" rot="R90"/>
@@ -369,18 +352,7 @@
 <wire x1="-0.5" y1="1.35" x2="0.5" y2="1.35" width="0.127" layer="21"/>
 <text x="-2.032" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 </package>
-<package name="1808" library_version="17" library_locally_modified="yes">
-<smd name="1" x="-2.625" y="0" dx="2.4" dy="1.75" layer="1" rot="R90"/>
-<smd name="2" x="2.625" y="0" dx="2.4" dy="1.75" layer="1" rot="R90"/>
-<wire x1="-2.25" y1="1" x2="-2.25" y2="-1" width="0.127" layer="51"/>
-<wire x1="-2.25" y1="-1" x2="2.25" y2="-1" width="0.127" layer="51"/>
-<wire x1="2.25" y1="-1" x2="2.25" y2="1" width="0.127" layer="51"/>
-<wire x1="2.25" y1="1" x2="-2.25" y2="1" width="0.127" layer="51"/>
-<text x="-3" y="1.73" size="1.27" layer="25">&gt;NAME</text>
-<wire x1="-1.5" y1="1.2" x2="1.5" y2="1.2" width="0.127" layer="21"/>
-<wire x1="-1.5" y1="-1.2" x2="1.5" y2="-1.2" width="0.127" layer="21"/>
-</package>
-<package name="STANDOFF-M25" library_version="17" library_locally_modified="yes">
+<package name="STANDOFF-M25" urn="urn:adsk.eagle:footprint:24777888/1" library_version="19">
 <hole x="0" y="0" drill="3.7"/>
 <smd name="P$1" x="0" y="0" dx="6" dy="6" layer="1" roundness="100" cream="no"/>
 <polygon width="0.127" layer="31">
@@ -501,7 +473,7 @@ Manufacturer: Hirose&lt;br&gt;
 <rectangle x1="-0.85" y1="-4.684" x2="0.85" y2="-2.684" layer="29"/>
 <rectangle x1="-0.85" y1="-1.35" x2="0.85" y2="1.35" layer="29"/>
 </package>
-<package name="USB-MICROB" urn="urn:adsk.eagle:footprint:37894/1" locally_modified="yes" library_version="1">
+<package name="USB-MICROB" urn="urn:adsk.eagle:footprint:24777921/1" library_version="1">
 <description>&lt;h3&gt;USB Type microUSB Connector-No Bossed Pins&lt;/h3&gt;
 &lt;p&gt;Specifications:
 &lt;ul&gt;&lt;li&gt;Pin count:5 pins, 4 shield connections&lt;/li&gt;
@@ -2282,6 +2254,34 @@ Manufacturer: Hirose&lt;br&gt;
 <text x="-0.1001" y="0" size="0.02" layer="27">&gt;VALUE</text>
 <text x="-1.27" y="-1.905" size="0.4064" layer="27">&gt;VALUE</text>
 </package>
+<package name="0402NOCREAM" urn="urn:adsk.eagle:footprint:13427376/2" library_version="19">
+<smd name="1" x="-0.5" y="0" dx="0.65" dy="0.6" layer="1" rot="R90" cream="no"/>
+<smd name="2" x="0.5" y="0" dx="0.65" dy="0.6" layer="1" rot="R90" cream="no"/>
+<text x="1.2" y="-0.2" size="0.635" layer="25">&gt;NAME</text>
+<wire x1="-0.1032" y1="0.3048" x2="0.1032" y2="0.3048" width="0.127" layer="21"/>
+<wire x1="-0.1032" y1="-0.3048" x2="0.1032" y2="-0.3048" width="0.127" layer="21"/>
+<wire x1="-0.93" y1="0.44" x2="0.93" y2="0.44" width="0" layer="39"/>
+<wire x1="0.93" y1="0.44" x2="0.93" y2="-0.44" width="0" layer="39"/>
+<wire x1="0.93" y1="-0.44" x2="-0.93" y2="-0.44" width="0" layer="39"/>
+<wire x1="-0.93" y1="-0.44" x2="-0.93" y2="0.44" width="0" layer="39"/>
+<polygon width="0.005" layer="51">
+<vertex x="-0.5" y="0.25"/>
+<vertex x="-0.5" y="-0.25"/>
+<vertex x="0.5" y="-0.25"/>
+<vertex x="0.5" y="0.25"/>
+</polygon>
+</package>
+<package name="1808" urn="urn:adsk.eagle:footprint:24777867/1" library_version="19">
+<smd name="1" x="-2.625" y="0" dx="2.4" dy="1.75" layer="1" rot="R90"/>
+<smd name="2" x="2.625" y="0" dx="2.4" dy="1.75" layer="1" rot="R90"/>
+<wire x1="-2.25" y1="1" x2="-2.25" y2="-1" width="0.127" layer="51"/>
+<wire x1="-2.25" y1="-1" x2="2.25" y2="-1" width="0.127" layer="51"/>
+<wire x1="2.25" y1="-1" x2="2.25" y2="1" width="0.127" layer="51"/>
+<wire x1="2.25" y1="1" x2="-2.25" y2="1" width="0.127" layer="51"/>
+<wire x1="-1.5" y1="1.2" x2="1.5" y2="1.2" width="0.127" layer="21"/>
+<wire x1="-1.5" y1="-1.2" x2="1.5" y2="-1.2" width="0.127" layer="21"/>
+<text x="-3" y="1.73" size="1.27" layer="25">&gt;NAME</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="0603" urn="urn:adsk.eagle:package:2154092/3" type="box" library_version="17" library_locally_modified="yes">
@@ -2322,11 +2322,6 @@ Manufacturer: Hirose&lt;br&gt;
 <package3d name="1206NOCREAM" urn="urn:adsk.eagle:package:13427384/1" type="box" library_version="17" library_locally_modified="yes">
 <packageinstances>
 <packageinstance name="1206NOCREAM"/>
-</packageinstances>
-</package3d>
-<package3d name="0402NOCREAM" urn="urn:adsk.eagle:package:13427386/1" type="box" library_version="17" library_locally_modified="yes">
-<packageinstances>
-<packageinstance name="0402NOCREAM"/>
 </packageinstances>
 </package3d>
 <package3d name="0201" urn="urn:adsk.eagle:package:16131649/1" type="box" library_version="17" library_locally_modified="yes">
@@ -2372,14 +2367,14 @@ USB_MICRO-B
 <packageinstance name="USB-B-MICRO-SMD"/>
 </packageinstances>
 </package3d>
-<package3d name="USB-MICROB" urn="urn:adsk.eagle:package:38240/1" type="box" library_version="1">
-<description>USB Type microUSB Connector-No Bossed Pins
-Specifications:
-Pin count:5 pins, 4 shield connections
-
-Example device(s):
-USB_Micro-B
-</description>
+<package3d name="USB-MICROB" urn="urn:adsk.eagle:package:24777956/1" type="box" library_version="19">
+<description>&lt;h3&gt;USB Type microUSB Connector-No Bossed Pins&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:5 pins, 4 shield connections&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;USB_Micro-B&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="USB-MICROB"/>
 </packageinstances>
@@ -2475,6 +2470,26 @@ USB_MICRO-B
 <packageinstance name="PAD-JUMPER-3-NO_YES_SILK"/>
 </packageinstances>
 </package3d>
+<package3d name="TE-2199119-KEYE" urn="urn:adsk.eagle:package:24777977/2" type="box" library_version="19">
+<packageinstances>
+<packageinstance name="TE-2199119-KEYE"/>
+</packageinstances>
+</package3d>
+<package3d name="0402NOCREAM" urn="urn:adsk.eagle:package:13427386/2" type="box" library_version="19">
+<packageinstances>
+<packageinstance name="0402NOCREAM"/>
+</packageinstances>
+</package3d>
+<package3d name="1808" urn="urn:adsk.eagle:package:24777922/1" type="box" library_version="19">
+<packageinstances>
+<packageinstance name="1808"/>
+</packageinstances>
+</package3d>
+<package3d name="STANDOFF-M25" urn="urn:adsk.eagle:package:24777945/1" type="box" library_version="19">
+<packageinstances>
+<packageinstance name="STANDOFF-M25"/>
+</packageinstances>
+</package3d>
 </packages3d>
 <symbols>
 <symbol name="LETTER_L" urn="urn:adsk.eagle:symbol:13870/1" library_version="17" library_locally_modified="yes">
@@ -2517,7 +2532,7 @@ USB_MICRO-B
 <text x="74.93" y="22.225" size="2.032" layer="94">License</text>
 <text x="74.93" y="17.145" size="2.54" layer="94">&gt;LICENSE</text>
 </symbol>
-<symbol name="M2-KEYE" library_version="17" library_locally_modified="yes">
+<symbol name="M2-KEYE" urn="urn:adsk.eagle:symbol:24777865/1" library_version="19">
 <pin name="GND@1" x="45.72" y="-101.6" length="middle" rot="R180"/>
 <pin name="3V3@3" x="-5.08" y="-99.06" length="middle"/>
 <pin name="USB_DP" x="45.72" y="-99.06" length="middle" rot="R180"/>
@@ -2625,15 +2640,15 @@ USB_MICRO-B
 <text x="-3.048" y="0.508" size="1.016" layer="95">&gt;NAME</text>
 <text x="1.016" y="0.508" size="1.016" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="STANDOFF-M25" library_version="17" library_locally_modified="yes">
+<symbol name="STANDOFF-M25" urn="urn:adsk.eagle:symbol:24777856/1" library_version="19">
 <text x="0.508" y="0.508" size="1.27" layer="97">Standoff M2.5x</text>
+<text x="15.24" y="0.508" size="1.27" layer="96">&gt;VALUE</text>
 <wire x1="0" y1="0" x2="0" y2="2.54" width="0.254" layer="94"/>
 <wire x1="0" y1="2.54" x2="17.78" y2="2.54" width="0.254" layer="94"/>
 <wire x1="17.78" y1="2.54" x2="17.78" y2="0" width="0.254" layer="94"/>
 <wire x1="17.78" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
-<text x="15.24" y="0.508" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="USB-5PIN" library_version="17" library_locally_modified="yes">
+<symbol name="USB-5PIN" urn="urn:adsk.eagle:symbol:24777866/1" library_version="19">
 <description>&lt;h3&gt;USB - 5 pin&lt;/h3&gt;
 &lt;p&gt;5 pin USB connector: VBUS, GND, D+, D-, ID &lt;/p&gt;
 &lt;p&gt;Includes 4 pins for shield connections &lt;/p&gt;</description>
@@ -2651,7 +2666,7 @@ USB_MICRO-B
 <pin name="ID" x="-5.08" y="-2.54" visible="pad" length="short"/>
 <pin name="SHIELD" x="7.62" y="0" visible="pad" length="short" rot="R180"/>
 </symbol>
-<symbol name="MIC20XX" urn="urn:adsk.eagle:symbol:2153948/2" locally_modified="yes" library_version="17" library_locally_modified="yes">
+<symbol name="MIC20XX" urn="urn:adsk.eagle:symbol:2153948/3" library_version="19">
 <description>Fixed and Adjustable Current Limiting Power Distribution Switches</description>
 <pin name="VIN" x="-12.7" y="5.08" length="middle"/>
 <pin name="GND" x="-12.7" y="-5.08" length="middle"/>
@@ -2718,7 +2733,7 @@ LETTER landscape</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M2-KEYE" prefix="U" library_version="17" library_locally_modified="yes">
+<deviceset name="M2-KEYE" urn="urn:adsk.eagle:component:24778039/2" prefix="U" library_version="19">
 <gates>
 <gate name="G$1" symbol="M2-KEYE" x="0" y="0"/>
 </gates>
@@ -2795,6 +2810,9 @@ LETTER landscape</description>
 <connect gate="G$1" pin="W_DISABLE1" pad="56"/>
 <connect gate="G$1" pin="W_DISABLE2" pad="54"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:24777977/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -2813,7 +2831,7 @@ LETTER landscape</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="RES" urn="urn:adsk.eagle:component:2154193/8" prefix="R" uservalue="yes" library_version="17" library_locally_modified="yes">
+<deviceset name="RES" urn="urn:adsk.eagle:component:2154193/9" prefix="R" uservalue="yes" library_version="19">
 <gates>
 <gate name="G$1" symbol="RES" x="0" y="0"/>
 </gates>
@@ -2920,7 +2938,7 @@ LETTER landscape</description>
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:13427386/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:13427386/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -2940,7 +2958,7 @@ LETTER landscape</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="CAP" urn="urn:adsk.eagle:component:2154192/9" locally_modified="yes" prefix="C" uservalue="yes" library_version="17" library_locally_modified="yes">
+<deviceset name="CAP" urn="urn:adsk.eagle:component:2154192/10" prefix="C" uservalue="yes" library_version="19">
 <gates>
 <gate name="G$1" symbol="CAP" x="0" y="0"/>
 </gates>
@@ -3047,7 +3065,7 @@ LETTER landscape</description>
 <connect gate="G$1" pin="P$2" pad="2"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:13427386/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:13427386/2"/>
 </package3dinstances>
 <technologies>
 <technology name=""/>
@@ -3082,25 +3100,31 @@ LETTER landscape</description>
 <connect gate="G$1" pin="P$1" pad="1"/>
 <connect gate="G$1" pin="P$2" pad="2"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:24777922/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="STANDOFF-M25" prefix="M" uservalue="yes" library_version="17" library_locally_modified="yes">
+<deviceset name="STANDOFF-M25" urn="urn:adsk.eagle:component:24778029/1" prefix="M" uservalue="yes" library_version="19">
 <gates>
 <gate name="G$1" symbol="STANDOFF-M25" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="STANDOFF-M25">
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:24777945/1"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="USB_MICRO-B" prefix="J" uservalue="yes" library_version="17" library_locally_modified="yes">
+<deviceset name="USB_MICRO-B" urn="urn:adsk.eagle:component:24778040/1" prefix="J" uservalue="yes" library_version="19">
 <description>&lt;h3&gt;USB Type Micro-B Connector&lt;/h3&gt;
 &lt;p&gt;Male/female and PTH/SMT variants&lt;/p&gt;
 &lt;p&gt;SparkFun Products:
@@ -3158,7 +3182,7 @@ LETTER landscape</description>
 <connect gate="G$1" pin="VBUS" pad="VBUS"/>
 </connects>
 <package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:38240/1"/>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:24777956/1"/>
 </package3dinstances>
 <technologies>
 <technology name="">
@@ -3206,7 +3230,7 @@ LETTER landscape</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MIC20XX" urn="urn:adsk.eagle:component:2154255/2" prefix="U" uservalue="yes" library_version="17" library_locally_modified="yes">
+<deviceset name="MIC20XX" urn="urn:adsk.eagle:component:2154255/3" prefix="U" uservalue="yes" library_version="19">
 <gates>
 <gate name="G$1" symbol="MIC20XX" x="0" y="0"/>
 </gates>
@@ -4546,7 +4570,7 @@ LED</description>
 <attribute name="URL" value=""/>
 </part>
 <part name="J1" library="Wurth_Elektronik_Electromechanic_FPC_Connectors_&amp;_Flat_Flexible_Cable_rev18c" library_urn="urn:adsk.eagle:library:488576" deviceset="68711014522" device="" package3d_urn="urn:adsk.eagle:package:3360750/1"/>
-<part name="U1" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="M2-KEYE" device="">
+<part name="U1" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="M2-KEYE" device="" package3d_urn="urn:adsk.eagle:package:24777977/2">
 <attribute name="MPN" value="2199119-4"/>
 </part>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -4560,12 +4584,12 @@ LED</description>
 <part name="H1" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="2.8" package3d_urn="urn:adsk.eagle:package:14271/1"/>
 <part name="H2" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="2.8" package3d_urn="urn:adsk.eagle:package:14271/1"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="M1" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="STANDOFF-M25" device="" value="1.5">
+<part name="M1" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="STANDOFF-M25" device="" package3d_urn="urn:adsk.eagle:package:24777945/1" value="1.5">
 <attribute name="MPN" value="9774015151R"/>
 </part>
 <part name="GND4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="J2" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="USB_MICRO-B" device="_SMT" package3d_urn="urn:adsk.eagle:package:38240/1"/>
+<part name="J2" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="USB_MICRO-B" device="_SMT" package3d_urn="urn:adsk.eagle:package:24777956/1"/>
 <part name="C3" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="CAP" device="0402" package3d_urn="urn:adsk.eagle:package:2154136/4" value="100n"/>
 <part name="C4" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="CAP" device="0402" package3d_urn="urn:adsk.eagle:package:2154136/4" value="100n"/>
 <part name="C5" library="CapableRobot" library_urn="urn:adsk.eagle:library:2153859" deviceset="CAP" device="0805" package3d_urn="urn:adsk.eagle:package:2154103/3" value="4u7"/>
