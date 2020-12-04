@@ -8,7 +8,7 @@
 </settings>
 <grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="yes"/>
 <layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
 <layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
@@ -1282,8 +1282,8 @@ This DRC check is for 4-Layer Standard Capability boards to be manufactured thro
 <vertex x="-32" y="28"/>
 <vertex x="-32" y="32"/>
 <vertex x="-31" y="33"/>
-<vertex x="-14" y="33"/>
-<vertex x="-13" y="34"/>
+<vertex x="-15" y="33"/>
+<vertex x="-13" y="35"/>
 </polygon>
 <contactref element="R4" pad="2"/>
 <contactref element="R3" pad="2"/>
